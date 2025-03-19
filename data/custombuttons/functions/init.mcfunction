@@ -1,2 +1,0 @@
-reload
-function custombuttons:place
