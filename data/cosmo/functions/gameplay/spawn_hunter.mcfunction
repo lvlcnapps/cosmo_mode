@@ -1,0 +1,1 @@
+execute in cosmo:map run tp @a[tag=alien_hunter] 313 263 0

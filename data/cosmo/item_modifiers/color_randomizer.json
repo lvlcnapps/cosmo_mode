@@ -1,0 +1,13 @@
+[
+    {
+      "function": "set_nbt",
+      "tag": {
+        "display": {
+          "color": {
+            "type": "random",
+            "range": [0, 16777214]
+          }
+        }
+      }
+    }
+]

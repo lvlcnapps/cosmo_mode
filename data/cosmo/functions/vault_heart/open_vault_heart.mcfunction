@@ -1,0 +1,1 @@
+execute in cosmo:map run setblock 312 249 63 minecraft:redstone_block

@@ -1,0 +1,1 @@
+execute in cosmo:map run fill 329 264 51 329 265 52 minecraft:iron_block

@@ -1,0 +1,1 @@
+$execute as @e[type=minecraft:armor_stand,sort=nearest,tag=base_vault_heart] at @s run tp @s ~$(dx) ~$(dy) ~$(dz)

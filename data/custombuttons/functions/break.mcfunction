@@ -1,0 +1,1 @@
+execute as @e[tag=custom_button, distance=..1] run kill @s

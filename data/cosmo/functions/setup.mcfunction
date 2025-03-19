@@ -1,0 +1,1 @@
+say cosmo addon loaded

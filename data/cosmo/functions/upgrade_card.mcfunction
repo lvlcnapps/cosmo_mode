@@ -1,0 +1,1 @@
+item replace entity @s weapon.mainhand with minecraft:purple_carpet[minecraft:custom_name='{"text":"Purple Pass"}']

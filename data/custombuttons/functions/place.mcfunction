@@ -1,0 +1,1 @@
+summon minecraft:armor_stand ~ ~ ~ {Tags:["custom_button"], Invisible:1b, NoGravity:1b, Marker:1b, CustomModelData:123456}
