@@ -1,5 +1,5 @@
 # АНГАР КОМНАТА
-execute in cosmo:map if data block 296 267 1 Items[{id:"minecraft:chorus_fruit"}] run scoreboard players add data cosmo_counter 1
+execute in cosmo:map if data block 305 263 2 Items[{id:"minecraft:chorus_fruit"}] run scoreboard players add data cosmo_counter 1
 
 # АНГАР БАЛКОН
 execute in cosmo:map if data block 324 268 20 Items[{id:"minecraft:chorus_fruit"}] run scoreboard players add data cosmo_counter 1
